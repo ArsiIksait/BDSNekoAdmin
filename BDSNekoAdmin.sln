@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDSNekoAdmin", "BDSNekoAdmin\BDSNekoAdmin.csproj", "{A03FA1FB-8646-4DD0-9577-5F27DEBE9E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03FA1FB-8646-4DD0-9577-5F27DEBE9E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03FA1FB-8646-4DD0-9577-5F27DEBE9E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03FA1FB-8646-4DD0-9577-5F27DEBE9E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03FA1FB-8646-4DD0-9577-5F27DEBE9E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A56451-D01A-407A-997A-118A6A9810A8}
+	EndGlobalSection
+EndGlobal
